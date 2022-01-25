@@ -88,11 +88,6 @@ buttons = [
     [
         InlineKeyboardButton(text="Join MirrorGroup", url="https://t.me/Reileenhub"),
     ],
-    [
-        InlineKeyboardButton(
-            text="Commands ❔", callback_data="help_back"
-        ),
-    ],
 ]
 
 
